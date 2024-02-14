@@ -11,5 +11,5 @@ date: '2023-01-01'
 publishDate: '2024-02-14T12:43:22.175347Z'
 publication_types:
 - article-journal
-publication: '*Inf. Syst.*'
+publication: '*Information Systems*'
 ---

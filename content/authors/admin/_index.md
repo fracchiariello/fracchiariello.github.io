@@ -40,7 +40,7 @@ education:
     - course: PhD in Artificial Intelligence & Knowledge Representation
       institution: Sapienza University of Rome
       year: 2023
-    - course: MEng in Artificial Intelligence & Robotics 
+    - course: MSc in Artificial Intelligence & Robotics 
       institution: Sapienza University of Rome
       year: 2019
     - course: BSc in Mathematics

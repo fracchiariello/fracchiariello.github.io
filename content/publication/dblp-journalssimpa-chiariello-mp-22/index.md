@@ -8,5 +8,5 @@ date: '2022-01-01'
 publishDate: '2024-02-14T12:43:22.181423Z'
 publication_types:
 - article-journal
-publication: '*Softw. Impacts*'
+publication: '*Software Impacts*'
 ---
