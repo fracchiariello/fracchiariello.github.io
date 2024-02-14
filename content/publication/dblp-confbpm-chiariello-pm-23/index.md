@@ -4,7 +4,7 @@ authors:
 - Francesco Chiariello
 - Fabrizio Maria Maggi
 - Fabio Patrizi
-date: '2023-01-01'
+date: '2023-09-01'
 publishDate: '2024-02-14T12:43:22.163322Z'
 publication_types:
 - paper-conference

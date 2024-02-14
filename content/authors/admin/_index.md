@@ -114,9 +114,12 @@ social:
   - icon: semantic-scholar
     icon_pack: ai
     link: https://www.semanticscholar.org/author/Francesco-Chiariello/2164124149
+  - icon: researchgate
+    icon_pack: ai 
+    link: https://www.researchgate.net/profile/Francesco_Chiariello
  # - icon: github
  #   icon_pack: fab
- #   link: https://github.com/gcushen
+ #   link: https://github.com/fracchiariello
  # - icon: linkedin
  #   icon_pack: fab
  #   link: https://www.linkedin.com/
