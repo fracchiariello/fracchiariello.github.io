@@ -136,5 +136,5 @@ highlight_name: true
 
 I am a Research Fellow at the University of Naples Federico II in the Automated STrategic REAsoning (ASTREA) group, led by Aniello Murano, where I work on combining Formal Methods and Machine Learning techniques.
 Before that, I did my Ph.D.  at Sapienza University of Rome, under the supervision of Fabio Patrizi. Here I have started my strand of research on logic-based analysis of temporal data.  In particular, I have focused on Process Mining applications using Declarative Problem Solving techniques (SAT, ASP, AI Planning).
-{style="text-align: justify;"}
+{style="text-align: justify; margin-right: 150px;"}
 
