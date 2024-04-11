@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Associate 
+role: Post-doc
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -136,7 +136,7 @@ social:
 highlight_name: true
 ---
 
-I am a Research Fellow at the University of Naples Federico II in the Automated STrategic REAsoning (ASTREA) group, led by Aniello Murano, where I work on combining Formal Methods and Machine Learning techniques.
-Before that, I did my Ph.D.  at Sapienza University of Rome, under the supervision of Fabio Patrizi. Here I have started my strand of research on logic-based analysis of temporal data.  In particular, I have focused on Process Mining applications using Declarative Problem Solving techniques (SAT, ASP, AI Planning).
+I am a Postdoctoral Researcher at the Artificial and Natural Intelligence Toulouse Institute (ANITI) of the University of Toulouse where I work on Formal Explainability of Recommender Systems for the Audio Mobility 2030 project. I'm also a memeber of the ADRIA team at IRIT.
+I did my Ph.D.  at Sapienza University of Rome, under the supervision of Fabio Patrizi, working on logic-based analysis of temporal data.
 {style="text-align: justify; margin-right: 30px;"}
 
