@@ -21,8 +21,8 @@ role: Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: ANITI
-    url: https://aniti.univ-toulouse.fr/
+  - name: <a href="https://aniti.univ-toulouse.fr/">ANITI</a>  <a href="https://www.irit.fr/">IRIT</a>
+    #url: https://aniti.univ-toulouse.fr/
   - name: Université de Toulouse
     url: https://www.univ-toulouse.fr/
 
