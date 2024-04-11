@@ -23,9 +23,7 @@ role: Research Associate
 organizations:
   - name: ANITI
     url: https://aniti.univ-toulouse.fr/
-  - name: IRIT
-    url: https://www.irit.fr/
-  - name: Univ-Toulouse
+  - name: Université de Toulouse
     url: https://www.univ-toulouse.fr/
 
 # Short bio (displayed in user profile at end of posts)
