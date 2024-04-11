@@ -137,6 +137,6 @@ social:
 highlight_name: true
 ---
 
-I am a Postdoctoral Researcher at the <em>Artificial and Natural Intelligence Toulouse Institute</em> (<a href="https://aniti.univ-toulouse.fr/en/">ANITI</a>) of the University of Toulouse where I work on Formal Explainability of Recommender Systems for the <em>Audio Mobility 2030</em> project. I'm also a memeber of the <a href="https://www.irit.fr/en/departement/dep-artificial-intelligence/adria-team/">ADRIA team</a> at IRIT. I did my Ph.D.  at Sapienza University of Rome, under the supervision of Fabio Patrizi, working on logic-based analysis of temporal data.
+I am a Postdoctoral Researcher at the <em>Artificial and Natural Intelligence Toulouse Institute</em> (<a href="https://aniti.univ-toulouse.fr/en/">ANITI</a>) of the University of Toulouse where I work on Formal Explainability of Recommender Systems for the <em>Audio Mobility 2030</em> project. I'm also a memeber of the <a href="https://www.irit.fr/en/departement/dep-artificial-intelligence/adria-team/">ADRIA team</a> at IRIT. Before, I did my Ph.D.  at Sapienza University of Rome, under the supervision of Fabio Patrizi, working on logic-based analysis of temporal data.
 {style="text-align: justify; margin-right: 30px;"}
 
