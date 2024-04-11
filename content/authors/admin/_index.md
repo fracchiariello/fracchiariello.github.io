@@ -21,10 +21,11 @@ role: Post-doc
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: IRIT
-    url: https://www.irit.fr/en/home/
   - name: Univ-Toulouse
     url: https://en.univ-toulouse.fr/
+  - name: IRIT
+    url: https://www.irit.fr/en/home/
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
