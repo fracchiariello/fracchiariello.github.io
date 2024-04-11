@@ -20,11 +20,12 @@ superuser: true
 role: Research Associate 
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: ANITI 
-    url: https://aniti.univ-toulouse.fr/
-  - name: Université de Toulouse
-    url: https://www.univ-toulouse.fr/
+organizations = [ { name = "SIL International", url = "http://www.sil.org", org_logo = "" } ]
+#organizations:
+#  - name: ANITI
+#    url: https://aniti.univ-toulouse.fr/
+#  - name: Université de Toulouse
+#    url: https://www.univ-toulouse.fr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
