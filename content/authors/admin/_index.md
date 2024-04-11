@@ -23,7 +23,7 @@ role: Post-doc
 organizations:
   - name: IRIT
     url: https://www.irit.fr/
-  - name: UNIV-TOULOUSE
+  - name: Univ-Toulouse
     url: https://www.univ-toulouse.fr/
 
 # Short bio (displayed in user profile at end of posts)
@@ -136,7 +136,7 @@ social:
 highlight_name: true
 ---
 
-I am a Postdoctoral Researcher at the Artificial and Natural Intelligence Toulouse Institute (ANITI) of the University of Toulouse where I work on Formal Explainability of Recommender Systems for the Audio Mobility 2030 project. I'm also a memeber of the ADRIA team at IRIT.
+I am a Postdoctoral Researcher at the Artificial and Natural Intelligence Toulouse Institute (<a href="https://aniti.univ-toulouse.fr/">ANITI</a>) of the University of Toulouse where I work on Formal Explainability of Recommender Systems for the Audio Mobility 2030 project. I'm also a memeber of the ADRIA team at IRIT.
 I did my Ph.D.  at Sapienza University of Rome, under the supervision of Fabio Patrizi, working on logic-based analysis of temporal data.
 {style="text-align: justify; margin-right: 30px;"}
 
