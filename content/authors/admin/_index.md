@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Francesco Chiariello, PhD
+title: Francesco Chiariello
 
 # Name pronunciation (optional)
 name_pronunciation: '' 
@@ -21,8 +21,12 @@ role: Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: DIETI - University of Naples Federico II
-    url: https://www.dieti.unina.it/index.php
+  - name: ANITI
+    url: https://aniti.univ-toulouse.fr/
+  - name: IRIT
+    url: https://www.irit.fr/
+  - name: Univ-Toulouse
+    url: https://www.univ-toulouse.fr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
