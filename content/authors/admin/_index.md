@@ -23,7 +23,7 @@ role: Post-doc
 organizations:
   - name: IRIT
     url: https://www.irit.fr/
-  - name: Université de Toulouse
+  - name: UNIV-TOULOUSE
     url: https://www.univ-toulouse.fr/
 
 # Short bio (displayed in user profile at end of posts)
