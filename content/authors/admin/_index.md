@@ -96,9 +96,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  #- icon: envelope
-  #  icon_pack: fas
-  #  link: '/#contact'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto: francesco.chiariello@irit.fr'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
@@ -123,9 +123,9 @@ social:
  # - icon: github
  #   icon_pack: fab
  #   link: https://github.com/fracchiariello
- # - icon: linkedin
- #   icon_pack: fab
- #   link: https://www.linkedin.com/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/francesco-chiariello/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
