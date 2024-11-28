@@ -1,4 +1,4 @@
-## Community Service
+# Community Service
 
 | Role               | Year | Event                                                                 |
 |--------------------|------|-----------------------------------------------------------------------|
@@ -13,3 +13,4 @@
 |                    | 2023 | Principles of Knowledge Representation and Reasoning (KR)          |
 |                    | 2023 | Logic, Rationality and Interaction (LORI)                          |
 |                    | 2022 | Journal of Artificial Intelligence Research (JAIR)                 |
+|--------------------|------|-----------------------------------------------------------------------|
