@@ -98,7 +98,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto: francesco.chiariello@irit.fr'
+    link: 'mailto:francesco.chiariello@irit.fr'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
@@ -125,7 +125,7 @@ social:
  #   link: https://github.com/fracchiariello
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/francesco-chiariello/
+    link: https://www.linkedin.com/in/francesco-chiariello/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
