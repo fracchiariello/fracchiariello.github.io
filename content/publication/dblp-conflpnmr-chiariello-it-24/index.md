@@ -4,7 +4,7 @@ authors:
 - Francesco Chiariello
 - Antonio Ielo
 - Alice Tarzariol
-date: '2024-01-01'
+date: '2024-09-10'
 publishDate: '2024-11-27T02:03:34.647004Z'
 publication_types:
 - paper-conference
