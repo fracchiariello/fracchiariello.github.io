@@ -1,9 +1,9 @@
 ---
 title: ASP-Based Declarative Process Mining (Extended Abstract)
 authors:
-- F. Chiariello
-- F.M. Maggi
-- F. Patrizi
+- Francesco Chiariello
+- Fabrizio Maria Maggi
+- Fabio Patrizi
 date: '2022-08-01'
 publishDate: '2024-02-14T12:43:22.187578Z'
 publication_types:
