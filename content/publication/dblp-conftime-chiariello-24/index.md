@@ -8,3 +8,4 @@ publication_types:
 - paper-conference
 publication: '*TIME*'
 ---
+In this work, we present a novel approach to learning Linear Temporal Logic (LTL) formulae from event logs by leveraging statistical techniques from sequential analysis. In particular, we employ the Sequential Probability Ratio Test (SPRT), using Trace Alignment to quantify the discrepancy between a trace and a candidate LTL formula. We then test the proposed approach in a controlled experimental setting and highlight its advantages, which include robustness to noise and data efficiency.
