@@ -3,7 +3,7 @@ title: 'Process mining meets model learning: Discovering deterministic finite st
   automata from event logs for business process analysis'
 authors:
 - Simone Agostinelli
-- Francesco Chiariello
+- admin
 - Fabrizio Maria Maggi
 - Andrea Marrella
 - Fabio Patrizi

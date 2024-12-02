@@ -1,7 +1,7 @@
 ---
 title: A tool for compiling Declarative Process Mining problems in ASP
 authors:
-- Francesco Chiariello
+- admin
 - Fabrizio Maria Maggi
 - Fabio Patrizi
 date: '2022-12-01'

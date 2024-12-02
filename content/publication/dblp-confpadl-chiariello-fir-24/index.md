@@ -1,7 +1,7 @@
 ---
 title: A Direct ASP Encoding for Declare
 authors:
-- Francesco Chiariello
+- admin
 - Valeria Fionda
 - Antonio Ielo
 - Francesco Ricca

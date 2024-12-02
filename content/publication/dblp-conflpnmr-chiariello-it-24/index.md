@@ -1,7 +1,7 @@
 ---
 title: An ILASP-Based Approach to Repair Petri Nets
 authors:
-- Francesco Chiariello
+- admin
 - Antonio Ielo
 - Alice Tarzariol
 date: '2024-09-10'

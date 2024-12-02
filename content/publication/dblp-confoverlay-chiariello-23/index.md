@@ -2,7 +2,7 @@
 title: Automata-Based Temporal Reasoning in Answer Set Programming with Application
   to Process Mining
 authors:
-- Francesco Chiariello
+- admin
 date: '2023-11-01'
 publishDate: '2024-02-14T12:43:22.154618Z'
 publication_types:

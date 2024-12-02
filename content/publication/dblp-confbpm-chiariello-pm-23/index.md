@@ -1,7 +1,7 @@
 ---
 title: From LTL on Process Traces to Finite-state Automata
 authors:
-- Francesco Chiariello
+- admin
 - Fabrizio Maria Maggi
 - Fabio Patrizi
 date: '2023-09-01'
