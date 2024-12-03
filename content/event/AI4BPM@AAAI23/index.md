@@ -50,7 +50,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf: ./AI4BPM_abstract.pdf
+url_pdf: AI4BPM@AAAI23.pdf
 url_video:
 
 url_poster: AI4BPM_poster.pdf
