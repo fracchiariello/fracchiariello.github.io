@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract: ''
+abstract: 'This tutorial introduces declarative problem solving using Answer Set Programming (ASP) and the clingo ASP system. Participants will learn ASP fundamentals, exploring its syntax and semantics through hands-on examples. The session features the Tower of Hanoi as a case study, demonstrating how to model and solve problems declaratively.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
