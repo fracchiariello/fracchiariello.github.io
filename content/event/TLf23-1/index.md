@@ -46,13 +46,13 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides: Slides_TLf23.pdf
+url_slides: Slides_TLf23-1.pdf
 
 url_code:
 url_pdf: TLf23-1.pdf
 url_video:
 
-url_poster: 
+url_poster: Poster_TLf23-1.pdf
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
