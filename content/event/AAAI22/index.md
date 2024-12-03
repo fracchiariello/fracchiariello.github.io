@@ -16,9 +16,9 @@ abstract: 'We put forward Answer Set Programming (ASP) as a solution approach fo
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-01-26
+date: 2022-02-26
 date_end: #2024-12-03T00:11:38Z
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT event date).
 publishDate: 2024-12-03T00:11:38Z
