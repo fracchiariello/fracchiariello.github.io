@@ -1,4 +1,5 @@
-title: Talks
+---
+title: Recent and Upcoming Talks, Outreach Activities
 cms_exclude: true
 
 # View.
