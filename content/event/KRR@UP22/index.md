@@ -2,9 +2,9 @@
 # Documentation: https://hugoblox.com/docs/managing-content/
 
 title: "ASP-Based Declarative Process Mining"
-event: Invited Seminar at Knowledge Representation and Reasoning Group, University of Potsdam
+event: Invited Seminar at the Knowledge Representation and Reasoning Group, University of Potsdam
 event_url:
-location: Virtual Venue
+location: Potsdam, Germany
 address:
   street:
   city:

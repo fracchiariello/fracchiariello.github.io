@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Post-doc
+role: Postdoctoral Researcher in Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
