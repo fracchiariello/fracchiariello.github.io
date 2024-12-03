@@ -1,7 +1,7 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: " Declarative Specifications: Reasoning and Mining Temporal Formulae (Wolfram Institute)"
+title: " Declarative Process Specifications: Reasoning and Mining Temporal Formulae (Wolfram Institute)"
 event: Invited Seminar
 event_url:
 location: Online
