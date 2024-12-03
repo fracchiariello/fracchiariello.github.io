@@ -1,7 +1,7 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: "ASP-Based Declarative Process Mining"
+title: "ASP-Based Declarative Process Mining (ICLP)"
 event: 38th International Conference on Logic Programming
 event_url:
 location: Haifa, Israel

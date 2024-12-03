@@ -1,7 +1,7 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: "ASP-Based Declarative Process Mining"
+title: "ASP-Based Declarative Process Mining (AAAI)"
 event: AAAI Conference on Artificial Intelligence
 event_url:
 location: Virtual Venue
