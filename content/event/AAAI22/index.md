@@ -52,6 +52,8 @@ url_code:
 url_pdf:
 url_video:
 
+url_poster: Poster_AAAI22.pdf
+
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
