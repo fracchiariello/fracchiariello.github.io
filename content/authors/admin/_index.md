@@ -33,9 +33,9 @@ bio: ''
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Formal Methods
-  - Logic Programming
-  - Process Mining
+  - Computational Logic
+  - Formal Epistemology
+  - Information Systems
 
 # Education to show in About widget
 education:
