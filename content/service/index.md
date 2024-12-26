@@ -11,6 +11,6 @@
 |                    | 2023 | Principles of Knowledge Representation and Reasoning (KR)          |
 |                    | 2023 | Logic, Rationality and Interaction (LORI)                          |
 |                    | 2022 | Journal of Artificial Intelligence Research (JAIR)                 |
-| **Local Organizer**| 2024 | Computer Science Logic (CSL)                                       |
+| **Local Org.**| 2024 | Computer Science Logic (CSL)                                       |
 |                    | 2023 | European Conference on Multi-Agent Systems (EUMAS)                 |
 |                    | 2021 | Knowledge Representation and Reasoning (KR) Rome Gathering         |
