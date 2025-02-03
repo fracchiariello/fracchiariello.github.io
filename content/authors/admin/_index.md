@@ -134,11 +134,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-### 🚀 Currently on the Job Market 
-
-I am actively seeking new opportunities! If you have any roles that match my skills, feel free to connect with me.
-
 I am a Research Scientist and Engineer passionate about developing **Safe and Trustworthy AI systems** by integrating symbolic and quantitative approaches. My work lies at the intersection of **Automated Reasoning**, **Formal Methods**, and **Machine Learning**. Some of the topics I am interested in include (i) Temporal Learning, (ii) Statistical Verification, (iii) Neural Network Verification, and (iv) Formal Explainability.
-
 {style="text-align: justify; margin-right: 30px;"}
 
