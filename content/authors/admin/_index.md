@@ -20,9 +20,9 @@ superuser: true
 role: Researcher in Trustworthy AI
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: No affiliation
-    url: https://francescochiariello.me/
+#organizations:
+#  - name: No affiliation
+#    url: https://francescochiariello.me/
 
 
 # Short bio (displayed in user profile at end of posts)
