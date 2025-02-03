@@ -21,7 +21,7 @@ role: Researcher in Trustworthy AI
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 
+  - name: No affiliation 
     url: 
 
 
