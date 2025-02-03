@@ -21,7 +21,7 @@ role: Researcher in Trustworthy AI
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: No affiliation 
+  - name: No affiliation
     url: https://francescochiariello.me/
 
 
