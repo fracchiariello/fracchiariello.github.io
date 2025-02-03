@@ -20,11 +20,9 @@ superuser: true
 role: Researcher in Trustworthy AI
 
 # Organizations/Affiliations to show in About widget
-#organizations:
-#  - name: Univ-Toulouse
-#    url: https://en.univ-toulouse.fr/
-#  - name: IRIT
-#    url: https://www.irit.fr/en/home/
+organizations:
+  - name: 
+    url: 
 
 
 # Short bio (displayed in user profile at end of posts)
