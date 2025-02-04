@@ -33,7 +33,7 @@ interests:
   - Discrete Optimization
   - Computational Logic
   - Formal Epistemology
-  - AI Systems
+  - Intelligent Systems
   - Information Systems
 
 # Education to show in About widget
