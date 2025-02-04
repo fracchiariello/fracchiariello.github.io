@@ -30,9 +30,10 @@ bio: ''
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Discrete Optimization
   - Computational Logic
   - Formal Epistemology
+  - AI Systems
   - Information Systems
 
 # Education to show in About widget
