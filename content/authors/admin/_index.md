@@ -97,7 +97,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:francesco.chiariello@proton.me'
+    link: 'mailto:chiariello.prism710@passinbox.com'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
