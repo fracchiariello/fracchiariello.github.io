@@ -24,7 +24,7 @@ organizations:
   - name: Chair of Machine Learning and Reasoning, RWTH Aachen University
 
 # Short bio (displayed in user profile at end of posts)
-bio: ''
+#bio: ''
 
 # Interests to show in About widget
 interests:
