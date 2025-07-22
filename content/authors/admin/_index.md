@@ -27,10 +27,7 @@ organizations:
  #   url: https://www.rwth-aachen.de/
 
 # Short bio (displayed in user profile at end of posts)
-#bio: >
-#  <a href="https://ml.rwth-aachen.de/" target="_blank">Chair of Machine Learning and Reasoning</a>, 
-#  <a href="https://www.rwth-aachen.de/" target="_blank">RWTH Aachen University</a>
-
+bio: ''
 
 # Interests to show in About widget
 interests:
