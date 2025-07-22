@@ -24,7 +24,7 @@ organizations:
  # - name: Chair of Machine Learning and Reasoning
  #   url: https://ml.rwth-aachen.de/
   - name: RWTH Aachen University
- #   url: https://www.rwth-aachen.de/
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
