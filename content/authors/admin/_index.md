@@ -23,7 +23,7 @@ organizations:
   - name: RWTH Aachen University
 
 # Short bio (displayed in user profile at end of posts)
-#bio: ''
+bio: RWTH Aachen University
 
 # Interests to show in About widget
 interests:
