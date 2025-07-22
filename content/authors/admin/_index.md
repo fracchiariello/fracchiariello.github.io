@@ -21,10 +21,8 @@ role: Researcher in Trustworthy AI
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Chair of Machine Learning and Reasoning
-    url: https://ml.rwth-aachen.de/
-  - name: RWTH Aachen University
-    url: https://www.rwth-aachen.de/
+  - name: '<a href="https://ml.rwth-aachen.de/" target="_blank">Chair of Machine Learning and Reasoning</a>, <a href="https://www.rwth-aachen.de/" target="_blank">RWTH Aachen University</a>'
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
