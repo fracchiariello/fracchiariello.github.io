@@ -20,10 +20,11 @@ superuser: true
 role: Researcher in Trustworthy AI
 
 # Organizations/Affiliations to show in About widget
-#organizations:
-  #- name: Chair of Machine Learning and Reasoning
-  #  url: https://ml.rwth-aachen.de/
-
+organizations:
+  - name: Chair of Machine Learning and Reasoning
+    url: https://ml.rwth-aachen.de/
+  - name: RWTH Aachen University
+    url: https://www.rwth-aachen.de/
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
