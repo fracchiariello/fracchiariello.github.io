@@ -19,17 +19,17 @@ superuser: true
 # Role/position/tagline
 role: Researcher in Trustworthy AI
 
-# Organizations/Affiliations to show in About widget
-#organizations:
-#  - name: Chair of Machine Learning and Reasoning
-#    url: https://ml.rwth-aachen.de/
-#  - name: RWTH Aachen University
-#    url: https://www.rwth-aachen.de/
+ Organizations/Affiliations to show in About widget
+organizations:
+ # - name: Chair of Machine Learning and Reasoning
+ #   url: https://ml.rwth-aachen.de/
+  - name: RWTH Aachen University
+ #   url: https://www.rwth-aachen.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: >
-  <a href="https://ml.rwth-aachen.de/" target="_blank">Chair of Machine Learning and Reasoning</a>, 
-  <a href="https://www.rwth-aachen.de/" target="_blank">RWTH Aachen University</a>
+#bio: >
+#  <a href="https://ml.rwth-aachen.de/" target="_blank">Chair of Machine Learning and Reasoning</a>, 
+#  <a href="https://www.rwth-aachen.de/" target="_blank">RWTH Aachen University</a>
 
 
 # Interests to show in About widget
@@ -139,6 +139,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Research Scientist and Engineer passionate about developing **Safe and Trustworthy AI systems** by integrating symbolic and quantitative approaches. My work lies at the intersection of **Automated Reasoning**, **Formal Methods**, and **Machine Learning**. Some of the topics I am interested in include (i) Temporal Learning, (ii) Statistical Verification, (iii) Neural Network Verification, and (iv) Formal Explainability.
+I am a Research Scientist and Engineer passionate about developing **Safe and Trustworthy AI systems** by integrating symbolic and quantitative approaches. My work lies at the intersection of **Automated Reasoning**, **Formal Methods**, and **Machine Learning**. Currently, I am a member of the <a href="https://ml.rwth-aachen.de/" target="_blank">Chair of Machine Learning and Reasoning</a> at RWTH Aachen University, working under the supervision of 
+    <a href="https://ml.rwth-aachen.de/~hector.geffner/" target="_blank">Hector Geffner</a>.
 {style="text-align: justify; margin-right: 30px;"}
 
