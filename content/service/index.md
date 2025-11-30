@@ -9,7 +9,8 @@
 |                    | 2024 | Process Management in the AI Era (PMAI@ECAI)                       |
 |                    | 2024 | Explainable Knowledge Aware Process Intelligence (EKAPI)           |
 |                    | 2023 | Safe and Trustworthy AI (STAI@ICLP)                                |
-| **Journal Rev.**   | 2025 | ACM Transactions on Software Engineering and Methodology           |
+| **Journal Rev.**   | 2025 | Information Systems                                                |
+|                    | 2025 | ACM Transactions on Software Engineering and Methodology           |
 |                    | 2025 | IEEE Transactions on Software Engineering                          |
 |                    | 2022 | Journal of Artificial Intelligence Research (JAIR)                 |
 | **Subreviewer**    | 2024 | Autonomous Agents and Multiagent Systems (AAMAS)                   |
