@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides: JELIA_2025___Slides
+url_slides: JELIA_2025___Slides.pdf
 
 url_code:
 url_pdf:
