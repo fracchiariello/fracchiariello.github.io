@@ -2,7 +2,7 @@
 # Documentation: https://hugoblox.com/docs/managing-content/
 
 title: "Formal Explanations of Black-Box Ranking Functions"
-event: 19TH EUROPEAN CONFERENCE ON LOGICS IN ARTIFICIAL INTELLIGENCE
+event: 19th European Conference on Logics in Artificial Intelligence
 event_url:
 location: Kutaisi, Georgia
 address:
