@@ -1,7 +1,7 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: "Formal Explanations of Black-Box Ranking Functions"
+title: "Formal Explanations of Black-Box Ranking Functions (JELIA)"
 event: 19th European Conference on Logics in Artificial Intelligence
 event_url:
 location: Kutaisi, Georgia
