@@ -3,6 +3,7 @@
 | Role               | Year | Event                                                              |
 |--------------------|------|--------------------------------------------------------------------|
 | **PC Member**      | 2026 | AAAI Conference on Artificial Intelligence                         |
+|                    | 2025 | Process Management in the AI Era (PMAI@ECAI)                       |
 |                    | 2025 | European Conference on Artificial Intelligence (ECAI) Demo         |
 |                    | 2025 | AAAI Conference on Artificial Intelligence                         |
 |                    | 2024 | European Conference on Artificial Intelligence (ECAI) Demo         |
