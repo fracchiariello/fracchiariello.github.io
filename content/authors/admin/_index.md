@@ -20,7 +20,7 @@ superuser: true
 role: Researcher in Trustworthy AI
 
 organizations:
-  - name: RWTH Aachen University
+  - name: Inria
 
 # Short bio (displayed in user profile at end of posts)
 #bio: ''
@@ -132,7 +132,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Research Scientist and Engineer passionate about developing **Safe and Trustworthy AI systems** by integrating symbolic and quantitative approaches. My work lies at the intersection of **Automated Reasoning**, **Formal Methods**, and **Machine Learning**. Currently, I am a member of the <a href="https://ml.rwth-aachen.de/" target="_blank">Chair of Machine Learning and Reasoning</a> at RWTH Aachen University, working under the supervision of 
-    <a href="https://ml.rwth-aachen.de/~hector.geffner/" target="_blank">Hector Geffner</a>.
+I am a Research Scientist and Engineer passionate about developing **Safe and Trustworthy AI systems** by integrating symbolic and quantitative approaches. My work lies at the intersection of **Automated Reasoning**, **Formal Methods**, and **Machine Learning**.
 {style="text-align: justify; margin-right: 30px;"}
 
